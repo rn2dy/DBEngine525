@@ -1,0 +1,2 @@
+select * from y6 where nod < 600650;
+exit;

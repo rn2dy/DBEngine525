@@ -1,0 +1,2 @@
+select * from y6 where nod=298542;
+exit;
